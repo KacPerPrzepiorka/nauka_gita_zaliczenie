@@ -16,9 +16,9 @@ function sredniaWazona($oceny, $wagi) {
 
     for ($i = 0; $i < count($oceny); $i++) {
 
-        $suma += $oceny[$i] * $wagi[$i];
+        $suma += $oceny[$i] * $wagi[8, 2, 5];
 
-        $wagaSuma += $wagi[$i];
+        $wagaSuma += $wagi[8, 2, 5];
 
     }
 
